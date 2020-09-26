@@ -55,7 +55,6 @@ INICIO
 P1. Ingresar el radio de la circunferencia: (guardar valor en la variable R)
 P2. A = Pi*R*R
 P3. Imprimir ("El area de la circunferencia es:", A,"cm^2")
-
 FIN
 
 6. ALGORITMO SUELDO SEMANAL 
